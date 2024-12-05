@@ -1,0 +1,1424 @@
+[
+    {
+        "transliteration": "brentari/0.png",
+        "letter": "\ue000\ue00c",
+        "brentari": "T-;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/1.png",
+        "letter": "\ue000\ue013\ue00c\ue070\ue012",
+        "brentari": "T-[;#",
+        "alt": "\ue000\ue00c\ue070\ue012"
+    },
+    {
+        "transliteration": "brentari/2.png",
+        "letter": "\ue002\ue00e",
+        "brentari": "1T;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/3.png",
+        "letter": "\ue002\ue00c",
+        "brentari": "1T-;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/4.png",
+        "letter": "\ue002\ue00d",
+        "brentari": "1;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/5.png",
+        "letter": "\ue002",
+        "brentari": "1;T;#",
+        "alt": "\ue002\ue070\ue07a\ue072-\ue002\ue070\ue079\ue071"
+    },
+    {
+        "transliteration": "brentari/6.png",
+        "letter": "\ue002\ue070\ue07a\ue071",
+        "brentari": "1;T-;#",
+        "alt": "\ue002"
+    },
+    {
+        "transliteration": "brentari/7.png",
+        "letter": "\ue009\ue010",
+        "brentari": "1T<;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/8.png",
+        "letter": "\ue002\ue00c\ue010",
+        "brentari": "1T-<;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/9.png",
+        "letter": "\ue002\ue00d\ue010",
+        "brentari": "1<;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/10.png",
+        "letter": "\ue002\ue010\ue070\ue079\ue071",
+        "brentari": "1<;T;#",
+        "alt": "\ue002\ue010\ue070\ue07a\ue072"
+    },
+    {
+        "transliteration": "brentari/11.png",
+        "letter": "\ue002\ue010",
+        "brentari": "1<;T-;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/12.png",
+        "letter": "\ue00b\ue010",
+        "brentari": "1T<;/",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/13.png",
+        "letter": "\ue006\ue010",
+        "brentari": "1T>;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/14.png",
+        "letter": "\ue002\ue00d\ue010",
+        "brentari": "1>;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/15.png",
+        "letter": "\ue002\ue010",
+        "brentari": "1>;T;#",
+        "alt": "\ue002\ue011"
+    },
+    {
+        "transliteration": "brentari/16.png",
+        "letter": "\ue002\ue010\ue00c",
+        "brentari": "1>;T-;#",
+        "alt": "\ue002\ue00c\ue011"
+    },
+    {
+        "transliteration": "brentari/17.png",
+        "letter": "\ue008\ue010",
+        "brentari": "1T>;/",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/18.png",
+        "letter": "\ue005\ue00c\ue071\ue010",
+        "brentari": "1>;/",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/19.png",
+        "letter": "\ue005\ue071\ue010",
+        "brentari": "1>;T;/",
+        "alt": "\ue005\ue00c\ue071\ue010\ue070\ue07a\ue071"
+    },
+    {
+        "transliteration": "brentari/20.png",
+        "letter": "\ue009\ue012",
+        "brentari": "1T[;#",
+        "alt": "\ue002\ue00e\ue012\ue071\ue012"
+    },
+    {
+        "transliteration": "brentari/21.png",
+        "letter": "\ue002\ue00c\ue012",
+        "brentari": "1T-[;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/22.png",
+        "letter": "\ue002\ue00d\ue012",
+        "brentari": "1[;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/23.png",
+        "letter": "\ue006\ue078",
+        "brentari": "1[;T;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/24.png",
+        "letter": "\ue002\ue012\ue00c\ue070",
+        "brentari": "1[;T-;#",
+        "alt": "\ue002\ue00c\ue071\ue012"
+    },
+    {
+        "transliteration": "brentari/25.png",
+        "letter": "\ue009\ue012\ue070",
+        "brentari": "1^[;T;#",
+        "alt": "\ue002\ue00e\ue071\ue012"
+    },
+    {
+        "transliteration": "brentari/26.png",
+        "letter": "\ue006\ue077",
+        "brentari": "1[;To;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/27.png",
+        "letter": "\ue002\ue011\ue0e6",
+        "brentari": "1[;D@;#",
+        "alt": "\ue002\ue011\ue070\ue07a\ue072"
+    },
+    {
+        "transliteration": "brentari/28.png",
+        "letter": "\ue009",
+        "brentari": "1Tc;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/29.png",
+        "letter": "\ue009\ue00e",
+        "brentari": "1T(;#",
+        "alt": "\ue002\ue00e\ue011"
+    },
+    {
+        "transliteration": "brentari/30.png",
+        "letter": "\ue002\ue00d\ue011",
+        "brentari": "1c;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/31.png",
+        "letter": "\ue002\ue00c\ue011\ue070",
+        "brentari": "1c;T-;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/32.png",
+        "letter": "\ue00b",
+        "brentari": "1Tc;/",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/33.png",
+        "letter": "\ue00b\ue00e",
+        "brentari": "1T(;/",
+        "alt": "\ue005\ue00e\ue070\ue011"
+    },
+    {
+        "transliteration": "brentari/34.png",
+        "letter": "\ue006",
+        "brentari": "1To;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/35.png",
+        "letter": "\ue006\ue078",
+        "brentari": "1o;T;#",
+        "alt": "\ue002\ue011\ue070\ue078\ue071"
+    },
+    {
+        "transliteration": "brentari/36.png",
+        "letter": "\ue008",
+        "brentari": "1To;/",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/37.png",
+        "letter": "\ue008\ue078",
+        "brentari": "1o;T;/",
+        "alt": "\ue005\ue071\ue012\ue070\ue07a\ue071"
+    },
+    {
+        "transliteration": "brentari/38.png",
+        "letter": "\ue006\ue011",
+        "brentari": "1T@;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/39.png",
+        "letter": "\ue006\ue012\ue078",
+        "brentari": "1T-@;#",
+        "alt": "\ue006\ue078"
+    },
+    {
+        "transliteration": "brentari/40.png",
+        "letter": "\ue002\ue012",
+        "brentari": "1@;T-;#",
+        "alt": "\ue002\ue012\ue070"
+    },
+    {
+        "transliteration": "brentari/41.png",
+        "letter": "\ue008\ue011",
+        "brentari": "1T@;/",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/42.png",
+        "letter": "\ue002\ue010\ue071\ue0e6\ue072",
+        "brentari": "1Tx;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/43.png",
+        "letter": "\ue005\ue071\ue010\ue071\ue0e6\ue072",
+        "brentari": "1Tx;/",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/44.png",
+        "letter": "\ue000\ue071\ue0e6\ue072",
+        "brentari": "1Tx@;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/45.png",
+        "letter": "\ue005\ue071\ue014\ue071\ue0e6\ue072",
+        "brentari": "1Tx@;/",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/46.png",
+        "letter": "\ue002\ue00d\ue072",
+        "brentari": "8;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/47.png",
+        "letter": "\ue002\ue072",
+        "brentari": "8T-;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/48.png",
+        "letter": "\ue008\ue012\ue072",
+        "brentari": "8T@;/",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/49.png",
+        "letter": "\ue005\ue00c\ue072",
+        "brentari": "8@;/",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/50.png",
+        "letter": "\ue00b\ue010\ue072",
+        "brentari": "8T<;/",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/51.png",
+        "letter": "\ue005\ue072\ue010\ue070\ue07a\ue072",
+        "brentari": "8<;T;/",
+        "alt": "\ue008\ue072\ue078"
+    },
+    {
+        "transliteration": "brentari/52.png",
+        "letter": "\ue008\ue072\ue010",
+        "brentari": "8T>;/",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/53.png",
+        "letter": "\ue005\ue00c\ue072\ue010",
+        "brentari": "8>;/",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/54.png",
+        "letter": "\ue008\ue072\ue078",
+        "brentari": "8>;T;/",
+        "alt": "\ue005\ue072\ue010\ue070\ue07a\ue072"
+    },
+    {
+        "transliteration": "brentari/55.png",
+        "letter": "\ue00b\ue072",
+        "brentari": "8Tc;/",
+        "alt": "\ue00b\ue00d\ue072"
+    },
+    {
+        "transliteration": "brentari/56.png",
+        "letter": "\ue00b\ue00e\ue072",
+        "brentari": "8T(;/",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/57.png",
+        "letter": "\ue008\ue072",
+        "brentari": "8To;/",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/58.png",
+        "letter": "\ue008\ue072\ue078",
+        "brentari": "8o;T;/",
+        "alt": "\ue005\ue072\ue011\ue070\ue07a\ue072"
+    },
+    {
+        "transliteration": "brentari/59.png",
+        "letter": "\ue002\ue00d\ue073",
+        "brentari": "7;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/60.png",
+        "letter": "\ue002\ue00c\ue073\ue010",
+        "brentari": "7>;/",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/61.png",
+        "letter": "\ue008\ue073",
+        "brentari": "7To;/",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/62.png",
+        "letter": "\ue005\ue00e\ue073\ue011",
+        "brentari": "7o;T;/",
+        "alt": "\ue005\ue073\ue011\ue070\ue07a\ue073-\ue008\ue073\ue078"
+    },
+    {
+        "transliteration": "brentari/63.png",
+        "letter": "\ue002\ue00c\ue074",
+        "brentari": "JT-;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/64.png",
+        "letter": "\ue002\ue00d\ue074",
+        "brentari": "J;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/65.png",
+        "letter": "\ue002\ue074",
+        "brentari": "J;T-;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/66.png",
+        "letter": "\ue002\ue074\ue010",
+        "brentari": "JT->;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/67.png",
+        "letter": "\ue002\ue00d\ue074\ue010",
+        "brentari": "J>;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/68.png",
+        "letter": "\ue002\ue00c\ue074\ue010",
+        "brentari": "J>;T-;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/69.png",
+        "letter": "\ue005\ue00e\ue074\ue010",
+        "brentari": "J>;T;/",
+        "alt": "\ue005\ue074\ue010\ue070\ue07a\ue074"
+    },
+    {
+        "transliteration": "brentari/70.png",
+        "letter": "\ue002\ue00c\ue074\ue012",
+        "brentari": "JT-[;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/71.png",
+        "letter": "\ue002\ue00d\ue074\ue012",
+        "brentari": "J[;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/72.png",
+        "letter": "\ue002\ue00c\ue074\ue012",
+        "brentari": "J[;T-;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/73.png",
+        "letter": "\ue008\ue074",
+        "brentari": "JTo;/",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/74.png",
+        "letter": "\ue003\ue00e",
+        "brentari": "UT;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/75.png",
+        "letter": "\ue003",
+        "brentari": "UT-;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/76.png",
+        "letter": "\ue003\ue00d",
+        "brentari": "U;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/77.png",
+        "letter": "\ue003\ue00c",
+        "brentari": "U;T-;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/78.png",
+        "letter": "\ue004\ue00e",
+        "brentari": "UT^;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/79.png",
+        "letter": "\ue004\ue00c",
+        "brentari": "UT-^;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/80.png",
+        "letter": "\ue004\ue00d",
+        "brentari": "U^;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/81.png",
+        "letter": "\ue004\ue070\ue079\ue072",
+        "brentari": "U^;T;#",
+        "alt": "\ue004\ue00d\ue072\ue0c7"
+    },
+    {
+        "transliteration": "brentari/82.png",
+        "letter": "\ue004\ue00e\ue072\ue010",
+        "brentari": "UTk;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/83.png",
+        "letter": "\ue004\ue00c\ue072\ue010",
+        "brentari": "UT-k;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/84.png",
+        "letter": "\ue004\ue00d\ue072\ue010",
+        "brentari": "Uk;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/85.png",
+        "letter": "\ue004\ue00d\ue072\ue010\ue071\ue0e6\ue072",
+        "brentari": "Uk;T;#",
+        "alt": "\ue004\ue00d\ue072\ue010 - \ue004\ue072\ue010\ue070\ue079\ue072"
+    },
+    {
+        "transliteration": "brentari/86.png",
+        "letter": "\ue004\ue072\ue010",
+        "brentari": "Uk;T-;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/87.png",
+        "letter": "\ue003\ue00d\ue071\ue076\ue072",
+        "brentari": "Ux;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/88.png",
+        "letter": "\ue003\ue00c\ue071\ue076\ue072",
+        "brentari": "Ux;T-;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/89.png",
+        "letter": "\ue003\ue010\ue00e",
+        "brentari": "UT<;#",
+        "alt": "\ue009\ue010\ue071\ue072"
+    },
+    {
+        "transliteration": "brentari/90.png",
+        "letter": "\ue003\ue010",
+        "brentari": "UT-<;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/91.png",
+        "letter": "\ue003\ue010\ue00d",
+        "brentari": "U<;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/92.png",
+        "letter": "\ue003\ue010\ue00c",
+        "brentari": "U<;T-;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/93.png",
+        "letter": "\ue004\ue010\ue00e",
+        "brentari": "UT^<;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/94.png",
+        "letter": "\ue004\ue010\ue00c",
+        "brentari": "UT-^<;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/95.png",
+        "letter": "\ue004\ue010\ue00d",
+        "brentari": "U^<;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/96.png",
+        "letter": "\ue006\ue010\ue071\ue072",
+        "brentari": "UT>;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/97.png",
+        "letter": "\ue003\ue010",
+        "brentari": "UT->;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/98.png",
+        "letter": "\ue003\ue010\ue00d",
+        "brentari": "U>;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/99.png",
+        "letter": "\ue003\ue010\ue00c",
+        "brentari": "U>;T-;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/100.png",
+        "letter": "\ue008\ue010\ue071\ue072",
+        "brentari": "UT>;/",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/101.png",
+        "letter": "\ue003\ue012\ue00e",
+        "brentari": "UT[;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/102.png",
+        "letter": "\ue003\ue012",
+        "brentari": "UT-[;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/103.png",
+        "letter": "\ue003\ue012\ue00d",
+        "brentari": "U[;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/104.png",
+        "letter": "\ue003\ue012\ue00c\ue070",
+        "brentari": "U[;T-;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/105.png",
+        "letter": "\ue004\ue012\ue00c",
+        "brentari": "UT^[;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/106.png",
+        "letter": "\ue004\ue012",
+        "brentari": "UT-^[;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/107.png",
+        "letter": "\ue004\ue012\ue00d",
+        "brentari": "U^[;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/108.png",
+        "letter": "\ue004\ue012\ue00e\ue070",
+        "brentari": "U^[;T;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/109.png",
+        "letter": "\ue004\ue012\ue00c\ue070",
+        "brentari": "U^[;T-;#",
+        "alt": "\ue005\ue012\ue00c\ue070\ue072\ue014\ue073\ue014"
+    },
+    {
+        "transliteration": "brentari/110.png",
+        "letter": "\ue004\ue00e\ue071\ue011\ue072\ue012",
+        "brentari": "UTk[;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/111.png",
+        "letter": "\ue004\ue00d\ue071\ue011\ue072\ue012",
+        "brentari": "Uk[;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/112.png",
+        "letter": "\ue004\ue00c\ue071\ue011\ue072\ue012",
+        "brentari": "Uk[;T-;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/113.png",
+        "letter": "\ue009\ue070\ue071",
+        "brentari": "UTc;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/114.png",
+        "letter": "\ue003\ue011\ue00e",
+        "brentari": "UT(;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/115.png",
+        "letter": "\ue003\ue011",
+        "brentari": "UT-c;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/116.png",
+        "letter": "\ue003\ue011\ue00d",
+        "brentari": "Uc;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/117.png",
+        "letter": "\ue003\ue011\ue00c\ue070",
+        "brentari": "Uc;T-;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/118.png",
+        "letter": "\ue004\ue00e\ue012",
+        "brentari": "UT^c;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/119.png",
+        "letter": "\ue004\ue00e\ue012\ue070",
+        "brentari": "UT^(;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/120.png",
+        "letter": "\ue004\ue012",
+        "brentari": "UT-^c;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/121.png",
+        "letter": "\ue004\ue012\ue00d",
+        "brentari": "U^c;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/122.png",
+        "letter": "\ue004\ue012\ue00c",
+        "brentari": "U^c;T-;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/123.png",
+        "letter": "\ue004\ue00d\ue071\ue011\ue072\ue012",
+        "brentari": "Ukc;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/124.png",
+        "letter": "\ue004\ue00c\ue071\ue011\ue072\ue012",
+        "brentari": "Ukc;T-;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/125.png",
+        "letter": "\ue006\ue011\ue071\ue072",
+        "brentari": "Uto;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/126.png",
+        "letter": "\ue003\ue011",
+        "brentari": "UT-o;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/127.png",
+        "letter": "\ue003\ue011\ue00d",
+        "brentari": "Uo;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/128.png",
+        "letter": "\ue003\ue011\ue00c",
+        "brentari": "Uo;T-;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/129.png",
+        "letter": "\ue008\ue071\ue072",
+        "brentari": "UTo;/",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/130.png",
+        "letter": "\ue006\ue012\ue070\ue071",
+        "brentari": "UT@;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/131.png",
+        "letter": "\ue000\ue072\ue0e6\ue073",
+        "brentari": "U@;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/132.png",
+        "letter": "\ue004\ue00c\ue071\ue074",
+        "brentari": "HT^;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/133.png",
+        "letter": "\ue004\ue00d\ue071\ue074",
+        "brentari": "H;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/134.png",
+        "letter": "\ue004\ue010\ue00d\ue071\ue074",
+        "brentari": "H>;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/135.png",
+        "letter": "\ue004\ue010\ue00c\ue071\ue074",
+        "brentari": "H>;T-;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/136.png",
+        "letter": "\ue004\ue012\ue00c\ue071\ue074",
+        "brentari": "H[;T-;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/137.png",
+        "letter": "\ue00b\ue010\ue072\ue073",
+        "brentari": "AT<;/",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/138.png",
+        "letter": "\ue008\ue010\ue072\ue073",
+        "brentari": "AT>;/",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/139.png",
+        "letter": "\ue00b\ue072\ue073",
+        "brentari": "ATc;/",
+        "alt": "\ue00b\ue00d\ue072\ue073"
+    },
+    {
+        "transliteration": "brentari/140.png",
+        "letter": "\ue00b\ue00e\ue072\ue073",
+        "brentari": "AT(;/",
+        "alt": "\ue00b\ue072\ue073"
+    },
+    {
+        "transliteration": "brentari/141.png",
+        "letter": "\ue008\ue072\ue073",
+        "brentari": "ATo;/",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/142.png",
+        "letter": "\ue004\ue00c\ue072\ue074",
+        "brentari": "PT-;#",
+        "alt": "\ue005\ue00c\ue071\ue014\ue073\ue014"
+    },
+    {
+        "transliteration": "brentari/143.png",
+        "letter": "\ue004\ue010\ue00c\ue072\ue074",
+        "brentari": "P>;T-;#",
+        "alt": "\ue005\ue010\ue00c\ue071\ue014\ue073\ue014"
+    },
+    {
+        "transliteration": "brentari/144.png",
+        "letter": "\ue008\ue012\ue071\ue072",
+        "brentari": "2;#",
+        "alt": "\ue005\ue00d\ue071\ue014\ue072\ue014"
+    },
+    {
+        "transliteration": "brentari/145.png",
+        "letter": "\ue008\ue012\ue074\ue071\ue07a\ue072\ue07a\ue073",
+        "brentari": "M;#",
+        "alt": "\ue001\ue00d\ue074\ue014\ue071\ue07a\ue072\ue072\ue07a\ue073\ue070\ue078\ue074"
+    },
+    {
+        "transliteration": "brentari/146.png",
+        "letter": "\ue005\ue00e\ue071\ue07a\ue072\ue072\ue07a\ue073",
+        "brentari": "MT;/",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/147.png",
+        "letter": "\ue005\ue00c\ue071\ue07a\ue072\ue072\ue07a\ue073",
+        "brentari": "M;/",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/148.png",
+        "letter": "\ue005\ue00d\ue071\ue07a\ue072\ue072\ue07a\ue073",
+        "brentari": "M;J;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/149.png",
+        "letter": "\ue008\ue074",
+        "brentari": "M^;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/150.png",
+        "letter": "\ue005\ue00c\ue074\ue012",
+        "brentari": "MT-^;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/151.png",
+        "letter": "\ue001\ue010\ue074\ue014\ue073\ue0e6\ue074",
+        "brentari": "M>;#",
+        "alt": "\ue001\ue010\ue073\ue0e6\ue074"
+    },
+    {
+        "transliteration": "brentari/152.png",
+        "letter": "\ue001\ue00d\ue012\ue074\ue014\ue070\ue078\ue074",
+        "brentari": "M[;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/153.png",
+        "letter": "\ue005\ue00d\ue012\ue074\ue014\ue070\ue078\ue074",
+        "brentari": "M^[;#",
+        "alt": "\ue008\ue012\ue074\ue071\ue012\ue072\ue012\ue073\ue012"
+    },
+    {
+        "transliteration": "brentari/154.png",
+        "letter": "\ue00a\ue074",
+        "brentari": "MTc;/",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/155.png",
+        "letter": "\ue001\ue011\ue00e\ue074",
+        "brentari": "MT(;/",
+        "alt": "\ue00a\ue00e\ue074-\ue005\ue00e\ue071\ue011\ue072\ue011\ue073\ue011-\ue005\ue00e\ue071\ue011\ue072\ue011\ue073\ue011\ue071\ue07a\ue072\ue072\ue07a\ue073"
+    },
+    {
+        "transliteration": "brentari/156.png",
+        "letter": "\ue008\ue071\ue072\ue073",
+        "brentari": "MTo;/",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/157.png",
+        "letter": "\ue000\ue00d\ue074\ue013",
+        "brentari": "MT@;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/158.png",
+        "letter": "\ue000\ue074\ue013\ue0e6",
+        "brentari": "M@;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/159.png",
+        "letter": "\ue007\ue074\ue014",
+        "brentari": "MTx;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/160.png",
+        "letter": "\ue005\ue00d\ue074\ue014\ue072\ue076\ue071\ue072\ue076\ue073",
+        "brentari": "Mx;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/161.png",
+        "letter": "\ue005\ue00d\ue074\ue014\ue071\ue011\ue073\ue011",
+        "brentari": "M^x;#",
+        "alt": "\ue005\ue00d\ue074\ue014"
+    },
+    {
+        "transliteration": "brentari/162.png",
+        "letter": "\ue008\ue012",
+        "brentari": "D^;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/163.png",
+        "letter": "\ue008\ue010\ue072\ue073\ue074",
+        "brentari": "DT>;/",
+        "alt": "\ue00b\ue072\ue010\ue073\ue010\ue074\ue010"
+    },
+    {
+        "transliteration": "brentari/164.png",
+        "letter": "\ue00b\ue072\ue073\ue074",
+        "brentari": "DTc;/",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/165.png",
+        "letter": "\ue008\ue072\ue073\ue074",
+        "brentari": "DTo;/",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/166.png",
+        "letter": "\ue008\ue012\ue073\ue071\ue07a\ue072",
+        "brentari": "UJ;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/167.png",
+        "letter": "\ue008\ue073",
+        "brentari": "UJ^;#",
+        "alt": "\ue008\ue012\ue073"
+    },
+    {
+        "transliteration": "brentari/168.png",
+        "letter": "\ue001\ue00e",
+        "brentari": "BT",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/169.png",
+        "letter": "\ue001",
+        "brentari": "BT-",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/170.png",
+        "letter": "\ue001\ue00c",
+        "brentari": "B;/",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/171.png",
+        "letter": "\ue001\ue00d",
+        "brentari": "B;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/172.png",
+        "letter": "\ue001",
+        "brentari": "B;T",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/173.png",
+        "letter": "\ue005\ue00e",
+        "brentari": "B^T",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/174.png",
+        "letter": "\ue005\ue00c",
+        "brentari": "B^T-",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/175.png",
+        "letter": "\ue005\ue00d",
+        "brentari": "B^;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/176.png",
+        "letter": "\ue005",
+        "brentari": "B^;T-",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/177.png",
+        "letter": "\ue005\ue071\ue072\ue011\ue073\ue011\ue074\ue010",
+        "brentari": "BTk",
+        "alt": "?"
+    },
+    {
+        "transliteration": "brentari/178.png",
+        "letter": "\ue005\ue00c\ue073\ue011\ue074\ue010",
+        "brentari": "BT-k",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/179.png",
+        "letter": "\ue007",
+        "brentari": "BTx",
+        "alt": "\ue007\ue010"
+    },
+    {
+        "transliteration": "brentari/180.png",
+        "letter": "\ue005\ue010\ue00e",
+        "brentari": "BT^x",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/181.png",
+        "letter": "\ue00a\ue010\ue00d",
+        "brentari": "BT<",
+        "alt": "\ue00a\ue010"
+    },
+    {
+        "transliteration": "brentari/182.png",
+        "letter": "\ue001\ue010",
+        "brentari": "BT-<",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/183.png",
+        "letter": "\ue001\ue010\ue00c",
+        "brentari": "B<;/",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/184.png",
+        "letter": "\ue001\ue010\ue00d",
+        "brentari": "B<;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/185.png",
+        "letter": "\ue00a\ue010\ue00e",
+        "brentari": "BT^<",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/186.png",
+        "letter": "\ue005\ue010\ue00c",
+        "brentari": "BT-^<",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/187.png",
+        "letter": "\ue005\ue00d\ue010",
+        "brentari": "B^<;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/188.png",
+        "letter": "\ue00a\ue010",
+        "brentari": "BT>",
+        "alt": "\ue001\ue010\ue00e"
+    },
+    {
+        "transliteration": "brentari/189.png",
+        "letter": "\ue001\ue010",
+        "brentari": "BT->",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/190.png",
+        "letter": "\ue001\ue010\ue00c",
+        "brentari": "B>;/",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/191.png",
+        "letter": "\ue001\ue010\ue00d",
+        "brentari": "B>;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/192.png",
+        "letter": "\ue001\ue012\ue00d",
+        "brentari": "BT[",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/193.png",
+        "letter": "\ue001\ue012\ue00c",
+        "brentari": "BT-[",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/194.png",
+        "letter": "\ue001\ue012\ue00d",
+        "brentari": "B[;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/195.png",
+        "letter": "\ue001\ue012\ue00e\ue070",
+        "brentari": "B[;T",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/196.png",
+        "letter": "\ue001\ue012\ue00c\ue070",
+        "brentari": "B[;T-",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/197.png",
+        "letter": "\ue005\ue012\ue00e",
+        "brentari": "BT^[",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/198.png",
+        "letter": "\ue005\ue012\ue00c",
+        "brentari": "BT-^[",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/199.png",
+        "letter": "\ue005\ue012\ue00c\ue070",
+        "brentari": "B^[;/",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/200.png",
+        "letter": "\ue005\ue00d\ue012",
+        "brentari": "B^[;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/201.png",
+        "letter": "\ue004\ue012\ue00d",
+        "brentari": "BTk[",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/202.png",
+        "letter": "\ue004\ue012\ue070\ue012",
+        "brentari": "BT-k[",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/203.png",
+        "letter": "\ue004\ue012",
+        "brentari": "Bk[;/",
+        "alt": "\ue004\ue012\ue070"
+    },
+    {
+        "transliteration": "brentari/204.png",
+        "letter": "\ue00a",
+        "brentari": "BTc",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/205.png",
+        "letter": "\ue00a\ue00e",
+        "brentari": "BT(",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/206.png",
+        "letter": "\ue001\ue011",
+        "brentari": "BT-c",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/207.png",
+        "letter": "\ue001\ue011\ue00c",
+        "brentari": "Bc;/",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/208.png",
+        "letter": "\ue001\ue011\ue00d",
+        "brentari": "Bc;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/209.png",
+        "letter": "\ue005\ue010\ue00e",
+        "brentari": "BT^c",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/210.png",
+        "letter": "\ue005\ue011\ue00e\ue070",
+        "brentari": "BT^(",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/211.png",
+        "letter": "\ue005\ue011",
+        "brentari": "BT-^c",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/212.png",
+        "letter": "\ue005\ue011\ue00c",
+        "brentari": "B^c;/",
+        "alt": "\ue005\ue011\ue00c\ue070"
+    },
+    {
+        "transliteration": "brentari/213.png",
+        "letter": "\ue005\ue00e\ue011\ue073\ue014\ue074\ue014",
+        "brentari": "BTkc",
+        "alt": "\ue004\ue012\ue00e\ue071"
+    },
+    {
+        "transliteration": "brentari/214.png",
+        "letter": "\ue005\ue00c\ue011\ue073\ue014\ue074\ue014",
+        "brentari": "BT-kc",
+        "alt": "\ue004\ue00c\ue072\ue012"
+    },
+    {
+        "transliteration": "brentari/215.png",
+        "letter": "\ue005\ue00c\ue071\ue011\ue072\ue012\ue073\ue014\ue074\ue014",
+        "brentari": "Bkc;/",
+        "alt": "\ue005\ue00c\ue071\ue011\ue072\ue011\ue073\ue014\ue074\ue014-\ue004\ue00c\ue071\ue011\ue072\ue011"
+    },
+    {
+        "transliteration": "brentari/216.png",
+        "letter": "\ue007\ue071\ue0c7",
+        "brentari": "BTo",
+        "alt": "\ue007"
+    },
+    {
+        "transliteration": "brentari/217.png",
+        "letter": "\ue001\ue011\ue070\ue07a\ue071",
+        "brentari": "BT-o",
+        "alt": "\ue001\ue011"
+    },
+    {
+        "transliteration": "brentari/218.png",
+        "letter": "\ue001\ue011",
+        "brentari": "Bo;/",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/219.png",
+        "letter": "\ue001\ue00d\ue011",
+        "brentari": "Bo;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/220.png",
+        "letter": "\ue001\ue011\ue00c",
+        "brentari": "Bo;T-",
+        "alt": "\ue001\ue011\ue00c\ue070"
+    },
+    {
+        "transliteration": "brentari/221.png",
+        "letter": "\ue000\ue00d",
+        "brentari": "BT@",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/222.png",
+        "letter": "\ue000\ue071\ue078\ue070",
+        "brentari": "BT-@",
+        "alt": "\ue000"
+    },
+    {
+        "transliteration": "brentari/223.png",
+        "letter": "\ue000",
+        "brentari": "B@;/",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/224.png",
+        "letter": "\ue000\ue0e6",
+        "brentari": "B@;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/225.png",
+        "letter": "\ue000\ue00e",
+        "brentari": "B@;T",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/226.png",
+        "letter": "\ue000\ue00c",
+        "brentari": "B@;T-",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/227.png",
+        "letter": "\ue001\ue00c\ue071\ue011\ue011\ue072\ue011\ue073\ue013\ue074",
+        "brentari": "BT-k@",
+        "alt": "\ue001\ue070\ue012\ue071\ue011\ue011\ue072\ue011\ue073\ue013\ue074\ue014"
+    },
+    {
+        "transliteration": "brentari/228.png",
+        "letter": "\ue001\ue071\ue011\ue011\ue072\ue011\ue073\ue013\ue074\ue014",
+        "brentari": "Bk@;/",
+        "alt": "\ue006\ue078"
+    },
+    {
+        "transliteration": "brentari/229.png",
+        "letter": "\ue002\ue00c\ue070\ue012",
+        "brentari": "T-[;1;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/230.png",
+        "letter": "\ue003\ue00d\ue071\ue012",
+        "brentari": "1[;8;#",
+        "alt": "\ue003\ue00d\ue071\ue012\ue072\ue078\ue071"
+    },
+    {
+        "transliteration": "brentari/231.png",
+        "letter": "\ue003\ue00c\ue071\ue012",
+        "brentari": "1[;8T-;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/232.png",
+        "letter": "\ue004\ue00c\ue071\ue012\ue074",
+        "brentari": "1[;JT-;#",
+        "alt": "\ue003\ue00c\ue071\ue012\ue074-\ue005\ue00c\ue070\ue012\ue072\ue014\ue073\ue014"
+    },
+    {
+        "transliteration": "brentari/233.png",
+        "letter": "\ue008\ue072",
+        "brentari": "8To;1;#",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/234.png",
+        "letter": "\ue005\ue00c\ue071\ue076\ue072\ue073\ue014",
+        "brentari": "Ux;JT-;#",
+        "alt": "\ue004\ue00c\ue071\ue076\ue072\ue074"
+    },
+    {
+        "transliteration": "brentari/235.png",
+        "letter": "\ue008\ue072\ue07a\ue073\ue073\ue07a\ue074",
+        "brentari": "D;1To",
+        "alt": ""
+    },
+    {
+        "transliteration": "brentari/236.png",
+        "letter": "\ue008\ue072\ue012\ue073\ue012\ue074\ue012",
+        "brentari": "D^[;To",
+        "alt": ""
+    }
+]
