@@ -6,10 +6,10 @@ hamnosys_to_prosodic = defaultdict(set)
 prosodic_to_hamnosys = defaultdict(set)
 
 for item in d:
-    hamnosys_to_prosodic[item['letter']].add(item['prosodic'])
-    hamnosys_to_prosodic[item['alt']].add(item['prosodic'])
-    prosodic_to_hamnosys[item['prosodic']].add(item['letter'])
-    hamnosys_to_prosodic[item['prosodic']].add(item['prosodic'])
+    hamnosys_to_prosodic[item['letter']].add(item['brentari'])
+    hamnosys_to_prosodic[item['alt']].add(item['brentari'])
+    prosodic_to_hamnosys[item['brentari']].add(item['letter'])
+    hamnosys_to_prosodic[item['brentari']].add(item['alt'])
 
 #takes a string containing a hamnosys handshape e.g.  and returns a list of prosodic model equivalents
 def hamnosys_to_prosodic(hamnosys):
